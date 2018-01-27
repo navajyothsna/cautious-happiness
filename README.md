@@ -7,7 +7,7 @@
 * fresh_tomatoes.py
 * entertainment_center.py
 
-### Run the file * entertainment_center.py in python by following steps
+### Run the file **entertainment_center.py** in python by following steps
  open **python(3.6 32-bits)** on your desktop.
  python shell window will appear
  Go to file and open **entertainment_center.py** .
