@@ -1,7 +1,7 @@
 import fresh_tomatoes
 import media
 
-Urvi = media.Movie("Urvi",
+Urvi = media.Movie( "Urvi",
                    "151 minutes",
                    "crime drama",
                    "https://mir-s3-cdn-cf.behance.net/project_modules/1400/df67db34973739.584c5ee3da36e.jpg",
@@ -9,7 +9,7 @@ Urvi = media.Movie("Urvi",
 
 That_Girl_in_Yellow_Boots = media.Movie("That Girl in Yellow Boots",
                                         "99 Minutes",
-                                        "suspance thriller"
+                                        "suspance thriller",
                                         "https://images-na.ssl-images-amazon.com/images/M/MV5BMGVjNGEwNWMtYTlhZS00Yjk0LWEyY2UtNDUyOTFlOGRmMmJmXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY268_CR3,0,182,268_AL_.jpg",
                                         "https://www.youtube.com/watch?v=FRDRfQ_mZnA")
 
@@ -38,11 +38,6 @@ Dil_chahta_Hai = media.Movie("Dil Chahta Hai",
                           "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/07/cf/de/07cfde84-5dca-010b-27e4-35ccd0f1b998/8902894114844_cover.jpg/1200x630bb.jpg",
                           "https://www.youtube.com/watch?gl=SG&v=m13b25V0B10&hl=en-GB")
 
-Queen = media.Movie("Queen",
-                    "146 Minutes",
-                    "Comedy",
-                    "http://www.peneflix.com/wp-content/uploads/2014/03/Queen-Hindi-Movie.jpg",
-                    "https://www.youtube.com/watch?v=KGC6vl3lzf0")
-movies = [Urvi, That_Girl_in_Yellow_Boots, Kirik_Party, Devdas, DDLJ, Dil_chahta_Hai, Queen]
-fresh_tomatoes.open_movies_page(movies)
 
+movies = [Urvi, That_Girl_in_Yellow_Boots, Kirik_Party, Devdas, DDLJ, Dil_chahta_Hai]
+fresh_tomatoes.open_movies_page(movies)
