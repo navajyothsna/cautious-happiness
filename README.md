@@ -8,10 +8,10 @@
 * entertainment_center.py
 
 ### Run the file * entertainment_center.py in python by following steps
- open * python(3.6 32-bits)* on your desktop.
+ open *python(3.6 32-bits) on your desktop.
  python shell window will appear
- Go to file and open * entertainment_center.py .
- clic on * run option available on the tool bar and select * runmodule
+ Go to file and open *entertainment_center.py .
+ clic on *run option available on the tool bar and select *runmodule
 
 
 ### Resulting webpage will appear 
