@@ -1,5 +1,5 @@
 # cautious-happiness
-# Fresh tomatos movie trailers
+# Fresh tomatoes movie trailers
 ## To run
 Run the entertainment_center.py in python.
 ### You will need
@@ -7,8 +7,8 @@ Run the entertainment_center.py in python.
 * fresh_tomatoes.py
 
 ## Source code for a Movie Trailer website.
-* You run the code with python
-* A website opens up with 6 moive posters
+* You run the code with python.
+* A website opens up with 6 moive posters with movie titles.
 * Clicking on the poster will open up a trailer.
 
 ## fresh_tomatoes.py
